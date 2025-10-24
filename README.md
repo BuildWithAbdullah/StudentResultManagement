@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Result Management System
 
 A console-based application to manage student records and results using Python and MySQL.
@@ -18,3 +19,7 @@ A console-based application to manage student records and results using Python a
 1. Clone the repository:
    ```bash
    git clone https://github.com/BuildWithAbdullah/StudentResultManagement.git
+=======
+# StudentResultManagement
+A console-based Student Result Management System using Python and MySQL.
+>>>>>>> 8ba6febe785c61343ad4bde4eb901a85b4253bd1
